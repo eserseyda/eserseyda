@@ -23,3 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eserseyda&" alt="eserseyda" /></p>
 
+
+![snake gif](https://github.com/eserseyda/eserseyda/blob/output/github-contribution-grid-snake.gif)
